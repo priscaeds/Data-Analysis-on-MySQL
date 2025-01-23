@@ -19,6 +19,6 @@ Triggers.
 Grants and Revoke.
 
 Schema visualization etc.
-## Insighs Gained
+## Insights Gained
 Wrote and executed queries to perform various tasks such as Data manipulation and updating, data auditing, thus showcasing a strong understanding of SQL concepts and syntax.
 
